@@ -1,3 +1,4 @@
+print('DESAFIO DO TRIANGULO')
 r1 = int(input('Digite a medida da primeira reta: '))
 r2 = int(input('Digite a medida da segunda reta: '))
 r3 = int(input('Digite a medida da terceira reta: '))
