@@ -1,4 +1,4 @@
-print('-++-' * 20) 44
+print('-++-' * 20)
 print('DESAFIO DO TRIANGULO')
 print('-++-' * 20)
 r1 = int(input('Digite a medida da primeira reta: '))
